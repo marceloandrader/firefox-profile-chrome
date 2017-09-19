@@ -1,0 +1,18 @@
+@-moz-document domain(toggl.com) {
+	.TimerContainer__timerContainer {
+		background-color: rgb(50,50,50) !important;
+		color: #cecece !important;
+	}
+	.ListItem__item {
+		background-color: rgb(50,50,50) !important;
+		color: #cecece !important;
+	}
+
+	.TimerForm__newTimeEntry {
+		background-color: rgb(50,50,50) !important;
+		color: #cecece !important;
+	}
+	.AnnouncementsConainer__container {
+		display: none !important;
+	}
+}
